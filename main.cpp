@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// 2nd change
+
 struct Entry {
     string name;
     int number;
